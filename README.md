@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mari08magesh@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1x-nJ2JS4J2vCshTKJNH6JSTVr5Uywljr/view?usp=sharing](https://drive.google.com/file/d/1x-nJ2JS4J2vCshTKJNH6JSTVr5Uywljr/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1x-nJ2JS4J2vCshTKJNH6JSTVr5Uywljr/view?usp=sharing](https://drive.google.com/file/d/1x-nJ2JS4J2vCshTKJNH6JSTVr5Uywljr/view?usp=sharing">My Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
