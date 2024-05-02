@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mari Magesh R</h1>
-<h3 align="center">A passionate frontend developer And Ui/Ux Design</h3>
+<h3 align="center">A passionate frontend developer And Ui/Ux Designer</h3>
 <img align= "center" alt="coding"  width="400" src=   "https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 - 🌱 I’m currently learning **react js, node js**
